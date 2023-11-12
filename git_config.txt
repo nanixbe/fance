@@ -2,3 +2,4 @@ git config --global user.name "Matthias"
 git config --global user.email "matthias@creativelife.be"
 git config --global init.default branch main
 git add .
+git commit -m "First commit"
