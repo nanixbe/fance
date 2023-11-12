@@ -3,3 +3,6 @@ git config --global user.email "matthias@creativelife.be"
 git config --global init.default branch main
 git add .
 git commit -m "First commit"
+git branch -M main
+git remote add origin git@github.com:nanixbe/fance.git
+git push -u origin main
